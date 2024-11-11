@@ -1,0 +1,87 @@
+{
+  "farmacias": [
+      { 
+        "id": "1", 
+        "name": "Paguemenos", 
+        "image": "https://play-lh.googleusercontent.com/axwYJ0Iv353TvttJhJogTXLV5beJ1bauKvDxzYdERfjTujjDAifColQTOxGuZR5b0w"
+      },
+      { 
+        "id": "2", 
+        "name": "Drogasil", 
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_drogasil.png"
+      },
+      { 
+        "id": "3", 
+        "name": "Farmacia do trabalhador", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQbQgOw1u9EPfFCId6pyOYPJ2tRBWfNkAb8w&s"
+      },
+      { 
+        "id": "4", 
+        "name": "Fármacias Aldesul", 
+        "image": "https://aldesul.com.br/wp-content/uploads/2023/07/Logo-aldesul-2019.png"
+      },
+      { 
+        "id": "5", 
+        "name": "Fármacia dose certa", 
+        "image": "https://www.dosecerta.com.br/uploads/dosecerta/design/dosecerta-logo16313036731229841551.png"
+      },
+      { 
+        "id": "6", 
+        "name": "ExtraFarma", 
+        "image": "https://www.cuponation.com.br/images/fit-in/256x/images/e/extrafarma_logo.png"
+      }
+    ],
+"remedios": [
+      { 
+        "id": "1", 
+        "name": "Analgésico Dorflex 36 Comprimidos", 
+        "price": 39.90,
+        "time": "Entrega: 50-60 min",
+        "delivery": 5.99,
+        "rating": 4.8,
+        "image": "https://paguemenos.vtexassets.com/arquivos/ids/902995-1200-auto?v=638551189359770000&width=1200&height=auto&aspect=true",
+        "farmaciaId": "1"
+
+      },
+      { 
+        "id": "2", 
+        "name": "Loratamed 10mg 12 Comprimidos", 
+        "price": 29,
+        "time": "Entrega: 30-40 min",
+        "delivery": 2.99,
+        "rating": 4.9,
+        "image": "https://paguemenos.vtexassets.com/arquivos/ids/935732-1200-auto?v=638633806517830000&width=1200&height=auto&aspect=true",
+        "farmaciaId": "6"
+      },
+      { 
+        "id": "3", 
+        "name": "Paracetamol 750mg com 20 Comprimidos", 
+        "price": 40,
+        "time": "Entrega: 50-60 min",
+        "delivery": 5.99,
+        "rating": 4.5,
+        "image": "https://paguemenos.vtexassets.com/arquivos/ids/641086-1200-auto?v=638008025296600000&width=1200&height=auto&aspect=true",
+        "farmaciaId": "5"
+      },
+      { 
+        "id": "4", 
+        "name": "Loxonin Flex 100mg Com 7 Adesivos", 
+        "price": 36,
+        "time": "Entrega: 50-60 min",
+        "delivery": 5.99,
+        "rating": 4.4,
+        "image": "https://paguemenos.vtexassets.com/arquivos/ids/664668-1200-auto?v=638070714998530000&width=1200&height=auto&aspect=true",
+        "farmaciaId": "3"
+      },
+      { 
+        "id": "5", 
+        "name": "Histamin 2mg 20 Comprimidos", 
+        "price": 20,
+        "time": "Entrega: 20-30 min",
+        "delivery": 2.99,
+        "rating": 4.4,
+        "image": "https://paguemenos.vtexassets.com/arquivos/ids/341240-1200-auto?v=637751840259130000&width=1200&height=auto&aspect=true",
+        "farmaciaId": "3"
+      }
+    ]
+  } 
